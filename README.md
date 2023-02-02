@@ -1,2 +1,2 @@
 # Makima
-Compiler and documentation for Makima, a statically-typed general purpose language with a focus on control.
+Makima is a statically-typed language with a focus on control. This is primarily a project for me (Andy), to learn about compilers in my free time. 
